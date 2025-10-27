@@ -14,107 +14,108 @@
 
 ---
 
+## 🧩 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
 ## 🎓 Education
-**Dankook University (단국대학교)**  
-_Bachelor of Science in Statistics (통계학과)_  
-**Mar 2021 – Present**  
+
+🎓 **Dankook University (단국대학교)**  
+_Bachelor of Science in Statistics_  
+**Mar 2022 – Present**  
 - GPA: **4.2 / 4.5 (Top 10%)**  
 - Relevant Coursework:  
   `Statistical Learning`, `Data Mining`, `Regression Diagnostics`,  
-  `Categorical Data Analysis`, `Bayesian Inference`, `Machine Learning`, `SQL Programming`
+  `Bayesian Inference`, `Categorical Data Analysis`, `Machine Learning`
 
 ---
 
-## 🧩 Skills
+## 📊 Projects
+
+### 🏀 NBA Salary Prediction  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Topic-Data%20Mining-orange)
+![ML](https://img.shields.io/badge/Method-Regression%20%26%20KNN-blue)
+
+- Built regression and machine learning models to predict NBA player salaries.  
+- Used `leaps`, `glmnet`, and `caret` packages in R for model selection and cross-validation.  
+- Analyzed **multicollinearity (VIF)** and optimized model interpretability.  
+- **Result:** Achieved R² = 0.86 with optimal model performance.  
+🔗 [GitHub Repository](https://github.com/your-github-id/nba-salary-analysis)
+
+---
+
+### 🧬 Domain Adaptation for Medical Image Segmentation  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Topic-Domain%20Adaptation-red)
+![Paper Review](https://img.shields.io/badge/Type-Paper%20Summary-lightgrey)
+
+- Topic: _“Domain Adaptation Techniques in Medical Imaging (TT-SFUDA)”_  
+- Summarized WACV 2024 paper on **source-free domain adaptation**.  
+- Compared self-training, entropy minimization, and pseudo-label refinement.  
+- Proposed future improvements for test-time adaptation.
+
+---
+
+### 🌡️ Seoul Climate & El Niño Analysis  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Source-KMA%20%26%20NOAA-green)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
+
+- Analyzed 30 years of Seoul weather data to assess global warming trends.  
+- Found +0.84 °C average increase during El Niño years.  
+- Utilized `pandas`, `matplotlib`, and `scipy.stats` for regression and trend tests.
+
+---
+
+### 🚦 Drunk Driving Patterns in Seoul  
+![Competition](https://img.shields.io/badge/Competition-Open%20Data%20Analysis-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
+![KMeans](https://img.shields.io/badge/Algorithm-KMeans-purple)
+
+- Clustered drunk-driving incidents by time and region using **k-means**.  
+- Created an interactive **`folium` map** visualizing accident density.  
+- Suggested data-driven policies for nighttime enforcement.
+
+---
+
+## 🧠 Skills Summary
 
 | Category | Skills |
 |:--|:--|
-| **Programming** | Python, R, SQL, Git, Markdown |
-| **Data Analysis** | Pandas, NumPy, scikit-learn, ggplot2, caret, tidyverse |
-| **Machine Learning** | Regression, Classification, Clustering, PCA, Lasso, KNN |
-| **Visualization** | Tableau, Matplotlib, Seaborn, Plotly |
-| **Statistics** | Hypothesis Testing, MLE, CRLB, ANOVA, Logistic Regression |
-| **Tools** | VS Code, Jupyter, RStudio, GitHub Desktop |
+| **Programming** | Python, R, SQL, Git |
+| **Analysis** | Regression, Classification, PCA, Clustering, Lasso |
+| **Visualization** | Tableau, ggplot2, Matplotlib, Seaborn |
+| **Tools** | Jupyter, RStudio, VS Code, GitHub Desktop |
+| **Soft Skills** | Problem-Solving, Communication, Team Collaboration |
 
 ---
 
-## 🧠 Projects
+## 🏅 Certificates
 
-### 🏀 NBA Salary Prediction (2024)
-**Data Mining Term Project – Predicting NBA Players’ Salaries**
-- Built multiple regression and machine learning models to predict players’ salaries.
-- Applied **KNN**, **Lasso**, and **Subset Selection** using `leaps`, `glmnet`, and `caret` in R.
-- Performed **VIF analysis** and **correlation matrix visualization** to handle multicollinearity.
-- **Result:** Achieved R² = 0.86 with optimized model and strong interpretability.  
-  _Code available in repository:_ [`nba-salary-analysis`](https://github.com/your-github-id/nba-salary-analysis)
-
----
-
-### 🧬 Domain Adaptation for Medical Image Segmentation (2024)
-**Final Project (비정형 데이터분석 팀 프로젝트)**  
-- Topic: _“Domain Adaptation Techniques in Medical Imaging (TT-SFUDA)”_  
-- Reviewed and summarized **WACV 2024 paper**: _“Robust Source-Free Domain Adaptation for Fundus Image Segmentation”_
-- Compared self-training, entropy minimization, and pseudo-label refinement methods.
-- Proposed a future pipeline for test-time adaptation in medical image segmentation.
-- Presented findings using **PowerPoint + Python visualization** (Matplotlib, OpenCV).
+| Certificate | Issued By | Year |
+|:--|:--|:--:|
+| ADsP (Advanced Data Analytics Semi-Professional) | Kdata | 2024 |
+| SQLD (SQL Developer) | Kdata | 2024 |
+| Computer Proficiency Level 1 | KCCI | 2023 |
+| English Immersion Program | DLSAU (Philippines) | 2024 |
 
 ---
 
-### 🌡️ Seoul Climate and El Niño Analysis (2024)
-**Data Science Class Project – Climate Change Impact on Korea**
-- Analyzed 30 years of Seoul weather data from KMA & NOAA.
-- Investigated the correlation between **El Niño/La Niña** and **temperature anomalies**.
-- Used `pandas`, `matplotlib`, `scipy.stats` for trend analysis.
-- Discovered significant average temperature increase during El Niño years (+0.84°C).
+## 🗣️ Languages
+
+![Korean](https://img.shields.io/badge/Korean-Native-red)
+![English](https://img.shields.io/badge/English-Advanced-blue)
+![Tagalog](https://img.shields.io/badge/Tagalog-Basic-yellow)
 
 ---
-
-### 🚦 Drunk Driving Analysis in Seoul (2024)
-**Public Data Analysis Competition**
-- Collected and cleaned **Seoul Open Data Portal** drunk-driving dataset.
-- Performed **spatial-temporal clustering** using `folium` and `k-means`.
-- Proposed data-driven policy insights for nighttime enforcement and accident prevention.
-
----
-
-## 🧑‍💻 GitHub & Open Source
-- **SGIS Map Service Improvement Project (2025)**  
-  – Proposed UX/UI enhancements for Statistics Korea’s SGIS service  
-  – Conducted usability testing and data mapping improvement tasks  
-- Regularly contribute to university open data repositories and Python notebooks.  
-- Maintain a **learning repo** for statistical R/Python tutorials: [`stat-learning-notes`](https://github.com/your-github-id/stat-learning-notes)
-
----
-
-## 📊 Certificates
-- **ADsP (Advanced Data Analytics Semi-Professional)** – Kdata, 2024  
-- **SQLD (SQL Developer)** – Kdata, 2024  
-- **Computer Proficiency Level 1** – KCCI, 2023  
-- **English Immersion Program Certificate** – DLSAU, Philippines, 2024  
-
----
-
-## 🗣️ Activities
-- **Exchange Student – De La Salle Araneta University (2024)**  
-  Studied academic English, presentation skills, and international teamwork.
-- **Photography Club Member** – DKU Lens (2023–Present)  
-  Participated in visual storytelling and social media content creation.
-
----
-
-## 💡 Interests
-- Data Visualization, Sports Analytics, Environmental Statistics  
-- Music, Photography, UI/UX, Machine Learning for Social Good
-
----
-
-## 🧾 Languages
-- **Korean:** Native  
-- **English:** Advanced (TOEIC 920 / Fluent in academic writing)  
-- **Tagalog:** Basic conversational  
-
----
-
-> _“I believe that good data analysis is not just about numbers, but about creating meaningful narratives that can make change.”_
 
 
