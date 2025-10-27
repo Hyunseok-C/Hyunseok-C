@@ -40,16 +40,28 @@ _Bachelor of Science in Statistics_
 
 ## 📊 Projects
 
-### 🏀 NBA Salary Prediction  
+### 🏀 NBA Salary Prediction (2024)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Data Mining](https://img.shields.io/badge/Topic-Data%20Mining-orange)
 ![ML](https://img.shields.io/badge/Method-Regression%20%26%20KNN-blue)
+**Topic:** Data Mining / Regression / Feature Selection  
+**Languages:** R, Python  
+**Tools:** `leaps`, `glmnet`, `caret`, `ggplot2`
 
-- Built regression and machine learning models to predict NBA player salaries.  
-- Used `leaps`, `glmnet`, and `caret` packages in R for model selection and cross-validation.  
-- Analyzed **multicollinearity (VIF)** and optimized model interpretability.  
-- **Result:** Achieved R² = 0.86 with optimal model performance.  
-🔗 [GitHub Repository](https://github.com/your-github-id/nba-salary-analysis)
+📂 **Repository:** [View Full Code →](https://github.com/yourid/nba-salary-analysis)  
+📊 **Slides:** [Download Presentation (PDF)](./docs/NBA_Salary_Prediction.pdf)  
+🧾 **Report:** [View Summary (Markdown)](./docs/NBA_Report.md)
+
+**Summary:**
+- Predicted NBA player salaries using regression & Lasso.
+- Analyzed multicollinearity via correlation & VIF.
+- Achieved R² = 0.86 with the optimal feature subset.  
+
+**Code Example:**
+```r
+fit <- lm(Salary_boxcox ~ Age + PTS + AST + REB, data = nba)
+summary(fit)
+```
 
 ---
 
