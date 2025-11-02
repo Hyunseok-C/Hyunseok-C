@@ -1,6 +1,6 @@
 # 💼 Resume – Hyunseok Choi (최현석)
 
-> **Statistics Major | Data Analyst in Training | Open-source & Data Science Enthusiast**  
+> ** 통계학 전공 | 데이터 분석 지망생 **  
 > Passionate about statistical modeling, data-driven storytelling, and machine learning applications.  
 > Focused on building meaningful insights from data using Python, R, and SQL.  
 
@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-E97627?style=for-the-badge&logo=SPSS&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -29,28 +29,28 @@
 ## 🎓 Education
 
 🎓 **Dankook University (단국대학교)**  
-_Bachelor of Science in Statistics_  
-**Mar 2022 – Present**  
-- GPA: **4.2 / 4.5 (Top 10%)**  
-- Relevant Coursework:  
-  `Statistical Learning`, `Data Mining`, `Regression Diagnostics`,  
-  `Bayesian Inference`, `Categorical Data Analysis`, `Machine Learning`
+_Bachelor of Science in Statistics (정보통계학과)_  
+**Mar 2021 – Present**  
+- GPA: **4.38 / 4.5 **  
+- Relevant Coursework:  `기계학습`, `데이터 마이닝`, `선형회귀모형 및 실습`,  `범주형 자료분석`
 
 ---
 
-## 📊 Projects
+## 📊 프로젝
 
-### 🏀 NBA Salary Prediction (2024)
+### 🏀 NBA 선수 연봉 분류 예측 (2025)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Data Mining](https://img.shields.io/badge/Topic-Data%20Mining-orange)
-![ML](https://img.shields.io/badge/Method-Regression%20%26%20KNN-blue)
-**Topic:** Data Mining / Regression / Feature Selection  
-**Languages:** R, Python  
+**과목:** 데이터마이닝
+**Languages:** R
 **Tools:** `leaps`, `glmnet`, `caret`, `ggplot2`
 
 📂 **Repository:** [View Full Code →](https://github.com/yourid/nba-salary-analysis)  
-📊 **Slides:** [Download Presentation (PDF)](./docs/NBA_Salary_Prediction.pdf)  
-🧾 **Report:** [View Summary (Markdown)](./docs/NBA_Report.md)
+
+💡 **프로젝트 제안서** 
+🧾 **프로젝트 중간보고서**
+ **최종 프로젝트 코드** [Download Presentation (PDF)](https://drive.google.com/file/d/1ABCDeFgHiJKlmnOPQrStuVWXYZ)
+📊 **최종 프로젝트 발표자료** 
 
 **Summary:**
 - Predicted NBA player salaries using regression & Lasso.
