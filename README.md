@@ -32,70 +32,97 @@
 _Bachelor of Science in Statistics (정보통계학과)_  
 **Mar 2021 – Present**  
 - GPA: **4.38 / 4.5 **  
-- Relevant Coursework:  `기계학습`, `데이터 마이닝`, `선형회귀모형 및 실습`,  `범주형 자료분석`
+- 과목:  `기계학습`, `데이터 마이닝`, `선형회귀모형 및 실습`,  `범주형 자료분석`
 
 ---
 
-## 📊 프로젝
+## 대외활동
+
+| 기간 | 활동명 | 주요 내용 |
+|:--|:--|:--|
+| **2024.08** | **도서관 봉사활동 (Library Volunteer)** | 지역 공공도서관에서 48시간 봉사 수행 — 자료 정리 및 이용자 안내 |
+| **2025.07** | **교비 어학연수 – De La Salle Araneta University (Philippines)** | 필리핀 현지에서 4주간 영어 회화 및 프레젠테이션 수업 참여 |
+| **2025.04 ~ 2025.11** | **통계지리정보서비스(SGIS) 모니터단 – 통계청** | 서비스 개선 보고서 5회 작성, **상반기 우수 회원 선정** |
+| **2025.06** | **코스다 대학생 공모전 2025** | 데이터 기반 아이디어 제안 프로젝트 참여 |
+
+### 🏆 코스다 대학생 공모전 2025
+![Competition](https://img.shields.io/badge/Competition-Open%20Data%20Analysis-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
+**주제:** 한국 사회의 특징적인 사회현상이나 문제 혹은 변화, 그리고 미래 전망  
+**팀 연구 주제:** “알고리즘은 분열을 부르는가, 공감을 이끄는가”
+
+> 소셜미디어 알고리즘이 사회적 분열과 공감 형성에 미치는 영향을 분석하고,  
+> 필터버블과 확증편향을 데이터 관점에서 탐구한 프로젝트입니다.  
+> 데이터 기반 사회 분석과 시각화를 통해 **미디어 알고리즘의 양면성**을 조명하였습니다.
+
+- 역할: 주제 기획 및 데이터 시각화 담당 
+- 결과: 수상은 하지 않았으나 완성도 높은 연구 수행
+- 
+🧾 **프로젝트 중간보고서**
+🧑‍💻 **최종 프로젝트 코드**
+📊 **최종 프로젝트 발표자료**
+
+---
+
+## 📊 프로젝트
 
 ### 🏀 NBA 선수 연봉 분류 예측 (2025)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Data Mining](https://img.shields.io/badge/Topic-Data%20Mining-orange)
-**과목:** 데이터마이닝
+**과목:** 데이터마이닝 및 실습
 **Languages:** R
 **Tools:** `leaps`, `glmnet`, `caret`, `ggplot2`
 
-📂 **Repository:** [View Full Code →](https://github.com/yourid/nba-salary-analysis)  
-
+📂 **프로젝트 저장소:** [View Full Code →](https://github.com/yourid/nba-salary-analysis)  
 💡 **프로젝트 제안서** 
 🧾 **프로젝트 중간보고서**
- **최종 프로젝트 코드** [Download Presentation (PDF)](https://drive.google.com/file/d/1ABCDeFgHiJKlmnOPQrStuVWXYZ)
+🧑‍💻 **최종 프로젝트 코드** [Download Presentation (PDF)](https://drive.google.com/file/d/1ABCDeFgHiJKlmnOPQrStuVWXYZ)
 📊 **최종 프로젝트 발표자료** 
 
 **Summary:**
-- Predicted NBA player salaries using regression & Lasso.
-- Analyzed multicollinearity via correlation & VIF.
-- Achieved R² = 0.86 with the optimal feature subset.  
-
-**Code Example:**
-```r
-fit <- lm(Salary_boxcox ~ Age + PTS + AST + REB, data = nba)
-summary(fit)
-```
+- 
 
 ---
 
-### 🧬 Domain Adaptation for Medical Image Segmentation  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### 🧬 의료분야의 활용에서의 도메인 적응(domain adaptation)
 ![Deep Learning](https://img.shields.io/badge/Topic-Domain%20Adaptation-red)
 ![Paper Review](https://img.shields.io/badge/Type-Paper%20Summary-lightgrey)
+**과목:** 비정형데이터 분석
 
-- Topic: _“Domain Adaptation Techniques in Medical Imaging (TT-SFUDA)”_  
-- Summarized WACV 2024 paper on **source-free domain adaptation**.  
-- Compared self-training, entropy minimization, and pseudo-label refinement.  
-- Proposed future improvements for test-time adaptation.
+
+- Topic: _“Domain Adaptation Techniques in Medical Imaging ”_  
+- 
 
 ---
 
-### 🌡️ Seoul Climate & El Niño Analysis  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### 🩺 의료장벽이 건강상태에 미치는 영향
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Source-KMA%20%26%20NOAA-green)
 ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
+**과목:** 헬스케어빅데이터 입문
+**Languages:** R
 
-- Analyzed 30 years of Seoul weather data to assess global warming trends.  
-- Found +0.84 °C average increase during El Niño years.  
-- Utilized `pandas`, `matplotlib`, and `scipy.stats` for regression and trend tests.
+- 
 
 ---
 
-### 🚦 Drunk Driving Patterns in Seoul  
-![Competition](https://img.shields.io/badge/Competition-Open%20Data%20Analysis-blue)
+### 🚦 2023년 서울 음주운전 사고 분석 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
-![KMeans](https://img.shields.io/badge/Algorithm-KMeans-purple)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
+**과목:** 데이터사이언스
+**Languages:** Python
 
-- Clustered drunk-driving incidents by time and region using **k-means**.  
-- Created an interactive **`folium` map** visualizing accident density.  
-- Suggested data-driven policies for nighttime enforcement.
+- 
+
+---
+
+### ⚾ 2024 KBO 정규시즌 데이터 시각화
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
+![R Markdown](https://img.shields.io/badge/Analysis-RMarkdown%20(.Rmd)-blue)
+**과목:** 탐색적 자료분석 및 시각화
+**Languages:** R
 
 ---
 
@@ -103,30 +130,30 @@ summary(fit)
 
 | Category | Skills |
 |:--|:--|
-| **Programming** | Python, R, SQL, Git |
-| **Analysis** | Regression, Classification, PCA, Clustering, Lasso |
-| **Visualization** | Tableau, ggplot2, Matplotlib, Seaborn |
+| **프로그래밍** | Python, R, SQL, Git |
+| **분석** | Regression, Classification, PCA, Clustering, Lasso |
+| **시각화** | ggplot2, Matplotlib, Seaborn |
 | **Tools** | Jupyter, RStudio, VS Code, GitHub Desktop |
 | **Soft Skills** | Problem-Solving, Communication, Team Collaboration |
 
 ---
 
-## 🏅 Certificates
+## 🏅 자격증
 
-| Certificate | Issued By | Year |
+| 자격증명 | 발급기 | 취득 |
 |:--|:--|:--:|
-| ADsP (Advanced Data Analytics Semi-Professional) | Kdata | 2024 |
-| SQLD (SQL Developer) | Kdata | 2024 |
-| Computer Proficiency Level 1 | KCCI | 2023 |
+| ADsP (Advanced Data Analytics Semi-Professional) | Kdata | 2022.11.21 |
+| SQLD (SQL Developer) | Kdata | 2023.4.7 |
+| 컴퓨터 활용능력 1급 | KCCI | 2023.12.29 |
+| 워드프로세서 1급 | KCCI | 2024.3.15
 | English Immersion Program | DLSAU (Philippines) | 2024 |
 
 ---
 
-## 🗣️ Languages
+## 🗣️ 언어
 
 ![Korean](https://img.shields.io/badge/Korean-Native-red)
 ![English](https://img.shields.io/badge/English-Advanced-blue)
-![Tagalog](https://img.shields.io/badge/Tagalog-Basic-yellow)
 
 ---
 
