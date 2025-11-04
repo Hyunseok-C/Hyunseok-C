@@ -49,6 +49,7 @@ _Bachelor of Science in Statistics (정보통계학과)_
 ![Competition](https://img.shields.io/badge/Competition-Open%20Data%20Analysis-blue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
+
 **주제:** 한국 사회의 특징적인 사회현상이나 문제 혹은 변화, 그리고 미래 전망  
 **팀 연구 주제:** “알고리즘은 분열을 부르는가, 공감을 이끄는가”
 
@@ -70,6 +71,7 @@ _Bachelor of Science in Statistics (정보통계학과)_
 ### 🏀 NBA 선수 연봉 분류 예측 (2025)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Data Mining](https://img.shields.io/badge/Topic-Data%20Mining-orange)
+
 **과목:** 데이터마이닝 및 실습
 **Languages:** R
 **Tools:** `leaps`, `glmnet`, `caret`, `ggplot2`
@@ -88,6 +90,7 @@ _Bachelor of Science in Statistics (정보통계학과)_
 ### 🧬 의료분야의 활용에서의 도메인 적응(domain adaptation)
 ![Deep Learning](https://img.shields.io/badge/Topic-Domain%20Adaptation-red)
 ![Paper Review](https://img.shields.io/badge/Type-Paper%20Summary-lightgrey)
+
 **과목:** 비정형데이터 분석
 
 
@@ -100,6 +103,7 @@ _Bachelor of Science in Statistics (정보통계학과)_
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Source-KMA%20%26%20NOAA-green)
 ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
+
 **과목:** 헬스케어빅데이터 입문
 **Languages:** R
 
@@ -110,6 +114,7 @@ _Bachelor of Science in Statistics (정보통계학과)_
 ### 🚦 2023년 서울 음주운전 사고 분석 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
 ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
+
 **과목:** 데이터사이언스
 **Languages:** Python
 
@@ -121,6 +126,7 @@ _Bachelor of Science in Statistics (정보통계학과)_
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
 ![R Markdown](https://img.shields.io/badge/Analysis-RMarkdown%20(.Rmd)-blue)
+
 **과목:** 탐색적 자료분석 및 시각화
 **Languages:** R
 
@@ -143,11 +149,9 @@ _Bachelor of Science in Statistics (정보통계학과)_
 | 자격증명 | 발급기 | 취득 |
 |:--|:--|:--:|
 | ADsP (Advanced Data Analytics Semi-Professional) | Kdata | 2022.11.21 |
-| SQLD (SQL Developer) | Kdata | 2023.4.7 |
+| SQLD (SQL Developer) | Kdata | 2023.04.07 |
 | 컴퓨터 활용능력 1급 | KCCI | 2023.12.29 |
-| 워드프로세서 1급 | KCCI | 2024.3.15
-| English Immersion Program | DLSAU (Philippines) | 2024 |
-
+| 워드프로세서 1급 | KCCI | 2024.03.15 |
 ---
 
 ## 🗣️ 언어
