@@ -14,9 +14,20 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 ![Hyunseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunseok-C&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseok-C&layout=compact)
 
+## 🗂️ Table of Contents | 목차
+1. [📍 Contact | 연락처](#-contact--연락처)  
+2. [🎓 Education | 학력](#-education--학력)  
+3. [🧩 Tech Stack | 기술-스택](#-tech-stack--기술-스택)  
+4. [🧠 Skills Summary | 기술-요약](#-skills-summary--기술-요약)  
+5. [🏅 Certifications | 자격증](#-certifications--자격증)  
+6. [🌍 Extracurricular Activities | 대외활동](#-extracurricular-activities--대외활동)  
+7. [📊 Project Experience | 프로젝트](#-project-experience--프로젝트)  
+8. [🗣️ Languages | 언어](#-languages--언어)
+
+
 ---
 
-## 1.1 📍 Contact
+## 1.1 📍 Contact | 연락처
 - **Phone:** 010-8974-0643
 - **Email:** [chs021213@naver.com](mailto:chs021213@naver.com)
 - **GitHub:** [github.com/Hyunseok-C](https://github.com/Hyunseok-C)
@@ -24,7 +35,7 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 
 ---
 
-## 1.2 🎓 Education
+## 1.2 🎓 Education | 학력
 
 🎓 **Dankook University (단국대학교)**  
 주전공: _Bachelor of Science in Information and Statistics (정보통계학과)_  
@@ -33,7 +44,7 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
   
 ---
 
-## 1.3 🧩 Tech Stack
+## 1.3 🧩 Tech Stack | 기술 스택
 
 ### 🧠 **Data Analysis & Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,9 +60,11 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🧠 Skills Summary | 기술 요약
+
 ---
 
-## 1.4 🏅 자격증
+## 1.4 🏅 Certifications | 자격증
 
 | 자격증명 | 발급기관 | 취득일 |
 |:--|:--|:--:|
@@ -60,12 +73,9 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 | SQLD (SQL Developer) | Kdata | 2023.04.07 |
 | ADsP (Advanced Data Analytics Semi-Professional) | Kdata | 2022.11.21 |
 
-
-
-
 ---
 
-## 1.5 대외활동
+## 1.5 🌍 Extracurricular Activities | 대외활동
 
 | 기간 | 활동명 | 주요 내용 |
 |:--|:--|:--|
@@ -90,39 +100,29 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 > 
 > *미디어 알고리즘의 양면성*을 탐구하여 사회적 책임 및 제도적 대응 방향 제시
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/Hyunseok-C/algorithm-duality/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80%20%EB%B6%84%EC%97%B4%EC%9D%84%20%EB%B6%80%EB%A5%B4%EB%8A%94%EA%B0%80%2C%20%EA%B3%B5%EA%B0%90%EC%9D%84%20%EC%9D%B4%EB%81%84%EB%8A%94%EA%B0%80_KOSSDA_%EA%B3%B5%EB%AA%A8%EC%A0%84.pdf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Hyunseok-C/algorithm-duality)
-
-[관련 자료 및 코드](https://github.com/Hyunseok-C/algorithm-duality)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyunseok-C&repo=algorithm-duality&show_owner=true)](https://github.com/Hyunseok-C/algorithm-duality)
 
 ---
 
-## 1.6 📊 프로젝트
+## 1.6 📊 Project Experience | 프로젝트
 
-| 📅 연도 | 🧾 프로젝트명 | 💻 사용 언어 | 📘 과목 | 📂 주요 내용 |
-|:--|:--|:--|:--|:--|
-| 2025-1 | 🏀 **NBA 선수 연봉 분류 예측** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/IDE-RStudio-75AADB?logo=rstudio&logoColor=white) | `데이터마이닝 및 실습` | - NBA 선수 연봉 분류(`Low`·`Mid`·`High`) 예측 모델 구축<br>- KNN, Naive Bayes, 결정트리, 랜덤포레스트 모델 성능 비교<br>[관련 자료 및 코드](https://github.com/Hyunseok-C/nba-salary-classification) |
-| 2025-1 | 🧬 **의료분야 도메인 적응(Domain Adaptation) 논문 리뷰** | ![Topic](https://img.shields.io/badge/Topic-Domain%20Adaptation-red)<br>![Type](https://img.shields.io/badge/Type-Paper%20Review-lightgrey) | `비정형데이터 분석` | - 관련 논문을 기반로 도메인 적응의 기술 발전 과정을 이론적 기반부터 Foundation Model까지 6단계로 정리<br>- 의료 영상 분야에의 적용 성능 향상 과정을 분석<br>[관련 자료](https://github.com/Hyunseok-C/domain-adaptation) |
-| 2025-1 | 🩺 **의료장벽이 건강상태에 미치는 영향 분석** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/IDE-RStudio-75AADB?logo=rstudio&logoColor=white) | `헬스케어빅데이터 입문` | - BRFSS 2021 데이터를 활용하여 성향점수매칭(PSM)과 로지스틱 회귀분석으 의료비 장벽이 건강상태에 미치는 영향 분석<br>[관련 자료 및 코드](https://github.com/Hyunseok-C/healthcare-barrier-psm-analysis) |
-| 2024-2 | 🚦 **2023년 서울 음주운전 사고 분석** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat)<br>![Jupyter](https://img.shields.io/badge/IDE-Jupyter-orange)<br>![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visualstudiocode) | `데이터사이언스` | - 서울시 음주운전 단속·사고 데이터를 분석 <br>- 시간·자치구·연령대별 사고 패턴을 시각화하여 예방 방안을 제시<br>[관련 자료 및 코드](https://github.com/Hyunseok-C/drunk-driving-analysis-2023) |
-| 2024-2 | ⚾ **2024 KBO 정규시즌 데이터 시각화** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/IDE-RStudio-75AADB?logo=rstudio&logoColor=white)<br>![RMarkdown](https://img.shields.io/badge/RMarkdown-.Rmd-blue) | `탐색적 자료분석 및 시각화` | - KBO 선수 기록 데이터 시각화 프로젝트<br>- 포스트시즌 진출 여부에 따른 성적 지표(OPS, ERA 등) 시각화 및 득점 요인 탐색<br>[관련 자료 및 코드](https://github.com/Hyunseok-C/kbo-postseason-eda-2024) |
+| 연도 | 🧾 프로젝트명 | 사용 언어·도구 | 📘 과목 | 📂 주요 내용 |
+|:--:|:--|:--:|:--:|:--|
+| **2025-1** | 🏀 **NBA 선수 연봉 분류 예측** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white) | `데이터마이닝 및 실습` | NBA 선수 연봉 분류(`Low`·`Mid`·`High`) 예측 모델 구축<br> KNN, Naive Bayes, 결정트리, 랜덤포레스트 성능 비교 <br> [🔗 코드 바로가기](https://github.com/Hyunseok-C/nba-salary-classification) |
+| **2025-1** | 🧬 **의료분야 도메인 적응 논문 리뷰** | ![Topic](https://img.shields.io/badge/Topic-Domain%20Adaptation-red)<br>![Type](https://img.shields.io/badge/Type-Paper%20Review-lightgrey) | `비정형데이터 분석` | 도메인 적응의 기술 발전 과정을 논문을 기반으로 6단계로 정리<bar> 의료 영상 분야에서의 적용 성능 향상 과정 설명 <br> [🔗 자료 보기](https://github.com/Hyunseok-C/domain-adaptation) |
+| **2025-1** | 🩺 **의료장벽이 건강상태에 미치는 영향 분석** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white) | `헬스케어빅데이터 입문` | BRFSS 2021 데이터 기반 성향점수매칭(PSM)·로지스틱 회귀로 의료비 장벽이 건강상태에 미치는 영향 분석 <br> [🔗 코드 보기](https://github.com/Hyunseok-C/healthcare-barrier-psm-analysis) |
+| **2024-2** | 🚦 **2023년 서울 음주운전 사고 분석** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat)<br>![Jupyter](https://img.shields.io/badge/Jupyter-orange)<br>![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) | `데이터사이언스` | 서울시 음주운전 단속·사고 데이터를 분석<br> 시간·자치구·연령대별 패턴을 시각화하여 예방 방안 제시 <br> [🔗 코드 보기](https://github.com/Hyunseok-C/drunk-driving-analysis-2023) |
+| **2024-2** | ⚾ **2024 KBO 정규시즌 데이터 시각화** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)<br>![RMarkdown](https://img.shields.io/badge/RMarkdown-.Rmd-blue) | `탐색적 자료분석 및 시각화` | KBO 선수 기록 데이터를 시각화<br> 포스트시즌 진출 여부에 따른 주요 성적 지표(OPS, ERA 등)와 득점 요인 탐색 <br> [🔗 코드 보기](https://github.com/Hyunseok-C/kbo-postseason-eda-2024) |
 
----
+### 📂 프로젝트 주요 자료
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyunseok-C&repo=nba-salary-classification&show_owner=true)](https://github.com/Hyunseok-C/nba-salary-classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyunseok-C&repo=healthcare-barrier-psm-analysis&show_owner=true)](https://github.com/Hyunseok-C/healthcare-barrier-psm-analysis)
 
-## 1.7 🧠 Skills Summary
 
-| **Category** | **Skills** |
-|:--|:--|
-| 🧑‍💻 **프로그래밍 언어** | Python, R, SQL, C++ |
-| 📊 **데이터 분석 기법** | Regression, Classification, Logistic Regression, Lasso, PCA, Clustering, Propensity Score Matching(PSM) |
-| 🧠 **머신러닝 / 통계 모델링** | Random Forest, KNN, Naive Bayes, Decision Tree, Domain Adaptation, Self-Training |
-| 📈 **시각화 및 문서화** | ggplot2, Matplotlib, Seaborn, RMarkdown, PowerPoint |
-| 🧰 **도구 및 환경** | Jupyter Notebook, RStudio, VS Code, SPSS, SAS, GitHub Desktop |
-| 🤝 **소프트 스킬** | Problem Solving, Critical Thinking, Team Collaboration, Research & Presentation |
 
 ---
 
-## 1.8 🗣️ 언어
+## 1.7 🗣️ Languages | 언어
 
 ![Korean](https://img.shields.io/badge/Korean-Native-red)
 ![English](https://img.shields.io/badge/English-Advanced-blue)
