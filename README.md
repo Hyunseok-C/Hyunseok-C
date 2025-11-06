@@ -5,6 +5,22 @@
   />
 </p>
 
+<table align="center" width="100%" bgcolor="#f3f4f6" style="border-radius: 15px; border: 2px solid #d1d5db;">
+  <tr>
+    <td align="center" style="padding: 20px; border-radius: 15px;">
+      <p>
+        <a href="#1-contact--연락처">📍 Contact</a> • 
+        <a href="#2-education--학력">🎓 Education</a> • 
+        <a href="#3-tech-stack--기술-스택">🧩 Tech Stack</a> • 
+        <a href="#4-certifications--자격증">🏅 Certifications</a> • 
+        <a href="#5-extracurricular-activities--대외활동">🌍 Extracurricular Activities</a> • 
+        <a href="#6-project-experience--프로젝트">📊 Projects</a> • 
+        <a href="#7-languages--언어">🗣️ Languages</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 > 통계학 전공 | 데이터 분석 지망생
 
 > 데이터로 사회의 패턴을 읽고 인사이트를 발견하는 것을 좋아합니다.
@@ -14,20 +30,9 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 ![Hyunseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunseok-C&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseok-C&layout=compact)
 
-## 🗂️ Table of Contents | 목차
-1. [📍 Contact | 연락처](#-contact--연락처)  
-2. [🎓 Education | 학력](#-education--학력)  
-3. [🧩 Tech Stack | 기술-스택](#-tech-stack--기술-스택)  
-4. [🧠 Skills Summary | 기술-요약](#-skills-summary--기술-요약)  
-5. [🏅 Certifications | 자격증](#-certifications--자격증)  
-6. [🌍 Extracurricular Activities | 대외활동](#-extracurricular-activities--대외활동)  
-7. [📊 Project Experience | 프로젝트](#-project-experience--프로젝트)  
-8. [🗣️ Languages | 언어](#-languages--언어)
-
-
 ---
 
-## 1.1 📍 Contact | 연락처
+## 1.📍 Contact | 연락처
 - **Phone:** 010-8974-0643
 - **Email:** [chs021213@naver.com](mailto:chs021213@naver.com)
 - **GitHub:** [github.com/Hyunseok-C](https://github.com/Hyunseok-C)
@@ -35,16 +40,19 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 
 ---
 
-## 1.2 🎓 Education | 학력
+## 2.🎓 Education | 학력
 
 🎓 **Dankook University (단국대학교)**  
 주전공: _Bachelor of Science in Information and Statistics (정보통계학과)_  
 **2021.03 – Present**  
 - 학점: 4.38 / 4.5
-  
+
+🏫 **Daegu Jeil High School (대구제일고등학교)**  
+**2018.03 – 2021.02**  
+
 ---
 
-## 1.3 🧩 Tech Stack | 기술 스택
+## 3.🧩 Tech Stack | 기술 스택
 
 ### 🧠 **Data Analysis & Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,7 +72,7 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 
 ---
 
-## 1.4 🏅 Certifications | 자격증
+## 4.🏅 Certifications | 자격증
 
 | 자격증명 | 발급기관 | 취득일 |
 |:--|:--|:--:|
@@ -75,7 +83,7 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 
 ---
 
-## 1.5 🌍 Extracurricular Activities | 대외활동
+## 5.🌍 Extracurricular Activities | 대외활동
 
 | 기간 | 활동명 | 주요 내용 |
 |:--|:--|:--|
@@ -104,7 +112,7 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 
 ---
 
-## 1.6 📊 Project Experience | 프로젝트
+## 6.📊 Project Experience | 프로젝트
 
 | 연도 | 🧾 프로젝트명 | 사용 언어·도구 | 📘 과목 | 📂 주요 내용 |
 |:--:|:--|:--:|:--:|:--|
@@ -118,11 +126,9 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyunseok-C&repo=nba-salary-classification&show_owner=true)](https://github.com/Hyunseok-C/nba-salary-classification)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyunseok-C&repo=healthcare-barrier-psm-analysis&show_owner=true)](https://github.com/Hyunseok-C/healthcare-barrier-psm-analysis)
 
-
-
 ---
 
-## 1.7 🗣️ Languages | 언어
+## 7.🗣️ Languages | 언어
 
 ![Korean](https://img.shields.io/badge/Korean-Native-red)
 ![English](https://img.shields.io/badge/English-Advanced-blue)
