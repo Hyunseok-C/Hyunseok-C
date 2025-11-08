@@ -14,12 +14,12 @@
         <a href="#3-tech-stack--기술-스택">🧩 Tech Stack</a> • 
         <a href="#4-certifications--자격증">🏅 Certifications</a> • 
         <a href="#5-extracurricular-activities--대외활동">🌍 Extracurricular Activities</a> • 
-        <a href="#6-project-experience--프로젝트">📊 Projects</a> • 
-        <a href="#7-languages--언어">🗣️ Languages</a>
+        <a href="#6-project-experience--프로젝트">📊 Projects</a>
       </p>
     </td>
   </tr>
 </table>
+
 
 > 통계학 전공 | 데이터 분석 지망생
 
@@ -42,13 +42,11 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 
 ## 2.🎓 Education | 학력
 
-🎓 **Dankook University (단국대학교)**  
-주전공: _Bachelor of Science in Information and Statistics (정보통계학과)_  
-**2021.03 – Present**  
-- 학점: 4.38 / 4.5
+| 기간 | 학교명 | 전공 / 과정 | 비고 |
+|------|---------|--------------|------|
+| 2021.03 – 현재 | 🎓 **단국대학교 (Dankook University)** | 정보통계학과 (B.S. in Statistics) | 학점: **4.38 / 4.5** |
+| 2018.03 – 2021.02 | 🏫 **대구제일고등학교 (Daegu Jeil High School)** | 일반계 고등학교 | 3년 개근상 수상 |
 
-🏫 **Daegu Jeil High School (대구제일고등학교)**  
-**2018.03 – 2021.02**  
 
 ---
 
@@ -93,22 +91,29 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 | **2024.08** | **도서관 봉사활동 (Library Volunteer)** | 지역 공공도서관에서 48시간 봉사 수행 — 자료 정리 및 이용자 안내 |
 
 
-### 🏆 코스다 대학생 공모전 2025
-![Competition](https://img.shields.io/badge/Competition-KOSSDA%20공모전-blue)
-![Topic](https://img.shields.io/badge/Topic-Media%20Algorithm%20Analysis-red)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/IDE-Jupyter-orange)
-
-**주제:** 한국 사회의 특징적인 사회현상이나 문제 혹은 변화, 그리고 미래 전망  
-**팀 연구 주제:** “알고리즘은 분열을 부르는가, 공감을 이끄는가”
-
-> 알고리즘 추천 시스템이 사회적 분열과 공감 형성에 미치는 영향을 데이터 기반으로 분석
-> 
-> 유튜브·넷플릭스 등 플랫폼의 개인화 추천 사례를 통 필터버블·공론장 약화 등 부정적 영향과 사회적 공감·연대 촉진 등 긍정적 효과를 조명
-> 
-> *미디어 알고리즘의 양면성*을 탐구하여 사회적 책임 및 제도적 대응 방향 제시
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyunseok-C&repo=algorithm-duality&show_owner=true)](https://github.com/Hyunseok-C/algorithm-duality)
+<table width="100%" bgcolor="#f8fafc" style="border-radius:12px; border:1.5px solid #d1d5db; padding:20px; margin-bottom:15px;">
+  <tr>
+    <td>
+      <h3>🏆 <b>코스다 대학생 공모전 2025</b></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Competition-KOSSDA%20공모전-blue">
+        <img src="https://img.shields.io/badge/Topic-Media%20Algorithm%20Analysis-red">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/IDE-Jupyter-orange">
+      </p>
+      <p><b>주제:</b> 한국 사회의 특징적인 사회현상이나 문제 혹은 변화, 그리고 미래 전망<br>
+      <b>팀 연구 주제:</b> “알고리즘은 분열을 부르는가, 공감을 이끄는가”</p>
+      <blockquote>
+        알고리즘 추천 시스템이 사회적 분열과 공감 형성에 미치는 영향을 데이터 기반으로 분석<br>
+        유튜브·넷플릭스 등 플랫폼의 개인화 추천 사례를 통해 필터버블·공론장 약화 등 부정적 영향과 사회적 공감·연대 촉진 등 긍정적 효과를 조명<br>
+        <i>미디어 알고리즘의 양면성</i>을 탐구하여 사회적 책임 및 제도적 대응 방향 제시
+      </blockquote>
+      <a href="https://github.com/Hyunseok-C/algorithm-duality">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyunseok-C&repo=algorithm-duality&show_owner=true" alt="algorithm-duality repo card">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -122,16 +127,20 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 | **2024-2** | 🚦 **2023년 서울 음주운전 사고 분석** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat)<br>![Jupyter](https://img.shields.io/badge/Jupyter-orange)<br>![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) | `데이터사이언스` | 서울시 음주운전 단속·사고 데이터를 분석<br> 시간·자치구·연령대별 패턴을 시각화하여 예방 방안 제시 <br> [🔗 코드 보기](https://github.com/Hyunseok-C/drunk-driving-analysis-2023) |
 | **2024-2** | ⚾ **2024 KBO 정규시즌 데이터 시각화** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)<br>![RMarkdown](https://img.shields.io/badge/RMarkdown-.Rmd-blue) | `탐색적 자료분석 및 시각화` | KBO 선수 기록 데이터를 시각화<br> 포스트시즌 진출 여부에 따른 주요 성적 지표(OPS, ERA 등)와 득점 요인 탐색 <br> [🔗 코드 보기](https://github.com/Hyunseok-C/kbo-postseason-eda-2024) |
 
-### 📂 프로젝트 주요 자료
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyunseok-C&repo=nba-salary-classification&show_owner=true)](https://github.com/Hyunseok-C/nba-salary-classification)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyunseok-C&repo=healthcare-barrier-psm-analysis&show_owner=true)](https://github.com/Hyunseok-C/healthcare-barrier-psm-analysis)
 
----
-
-## 7.🗣️ Languages | 언어
-
-![Korean](https://img.shields.io/badge/Korean-Native-red)
-![English](https://img.shields.io/badge/English-Advanced-blue)
+<table align="center" width="100%" bgcolor="#f3f4f6" style="border-radius:15px; border:2px solid #d1d5db; padding:15px;">
+  <tr>
+    <td align="center">
+      <h3>📂 프로젝트 주요 자료</h3>
+      <a href="https://github.com/Hyunseok-C/nba-salary-classification">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyunseok-C&repo=nba-salary-classification&show_owner=true" alt="NBA Salary Classification Repo"/>
+      </a>
+      <a href="https://github.com/Hyunseok-C/healthcare-barrier-psm-analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyunseok-C&repo=healthcare-barrier-psm-analysis&show_owner=true" alt="Healthcare Barrier PSM Analysis Repo"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
