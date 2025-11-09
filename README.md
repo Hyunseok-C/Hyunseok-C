@@ -33,6 +33,7 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 #### 📊 My Github Stats
 
 ![Hyunseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunseok-C&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseok-C&layout=compact&theme=dark)
 
 ---
