@@ -28,13 +28,14 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 
 <img align="right" alt="Data Analysis Illustration" 
      src="https://raw.githubusercontent.com/Hyunseok-C/Hyunseok-C/main/data-analysis-illustration.png" 
-     width="360px"/>
+     width="340px"/>
 
-#### 📊 My Github Stats
+#### 📊 My GitHub Stats
 
-![Hyunseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunseok-C&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseok-C&layout=compact&theme=dark)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyunseok-C&show_icons=true&theme=dark" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunseok-C&layout=compact&theme=dark" height="160px"/>
+</div>
 
 ---
 
