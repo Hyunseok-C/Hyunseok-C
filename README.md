@@ -28,7 +28,7 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 
 <img align="right" alt="Data Analysis Illustration" 
      src="https://raw.githubusercontent.com/Hyunseok-C/Hyunseok-C/main/data-analysis-illustration.png" 
-     width="380px"/>
+     width="360px"/>
 
 #### 📊 My Github Stats
 
