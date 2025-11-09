@@ -20,15 +20,20 @@
   </tr>
 </table>
 
-
 > 통계학 전공 | 데이터 분석 지망생
 
 > 데이터로 사회의 패턴을 읽고 인사이트를 발견하는 것을 좋아합니다.
 R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행하면서 폭넓은 경험을 쌓았습니다.
 데이터 기반 문제 해결력과 협업 경험을 바탕으로 실질적인 변화를 만들어내는 데이터 분석가를 목표로 하고 있습니다.
 
+<img align="right" alt="Data Analysis Illustration" 
+     src="https://raw.githubusercontent.com/Hyunseok-C/Hyunseok-C/main/data-analysis-illustration.png" 
+     width="380px"/>
+
+#### 📊 My Github Stats
+
 ![Hyunseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunseok-C&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseok-C&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseok-C&layout=compact&theme=dark)
 
 ---
 
@@ -65,6 +70,7 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
 ![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 🧠 Skills Summary | 기술 요약
 
@@ -96,19 +102,27 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 수행�
     <td>
       <h3>🏆 <b>코스다 대학생 공모전 2025</b></h3>
       <p>
-        <img src="https://img.shields.io/badge/Competition-KOSSDA%20공모전-blue">
-        <img src="https://img.shields.io/badge/Topic-Media%20Algorithm%20Analysis-red">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/IDE-Jupyter-orange">
+        <img src="https://img.shields.io/badge/Competition-KOSSDA%20공모전-blue" alt="Competition Badge">
+        <img src="https://img.shields.io/badge/Topic-Media%20Algorithm%20Analysis-red" alt="Topic Badge">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
+        <img src="https://img.shields.io/badge/IDE-Jupyter-orange" alt="IDE Badge">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion Badge">
       </p>
       <p><b>주제:</b> 한국 사회의 특징적인 사회현상이나 문제 혹은 변화, 그리고 미래 전망<br>
       <b>팀 연구 주제:</b> “알고리즘은 분열을 부르는가, 공감을 이끄는가”</p>
-      <blockquote>
+      <blockquote style="background-color:#ffffff; border-left:4px solid #60a5fa; padding:10px 15px; border-radius:8px;">
         알고리즘 추천 시스템이 사회적 분열과 공감 형성에 미치는 영향을 데이터 기반으로 분석<br>
-        유튜브·넷플릭스 등 플랫폼의 개인화 추천 사례를 통해 필터버블·공론장 약화 등 부정적 영향과 사회적 공감·연대 촉진 등 긍정적 효과를 조명<br>
-        <i>미디어 알고리즘의 양면성</i>을 탐구하여 사회적 책임 및 제도적 대응 방향 제시
+        유튜브·넷플릭스 등 플랫폼의 개인화 추천 사례를 통해 필터버블·공론장 약화 등 부정적 영향과<br>
+        사회적 공감·연대 촉진 등 긍정적 효과를 조명.<br>
+        <i>미디어 알고리즘의 양면성</i>을 탐구하여 사회적 책임 및 제도적 대응 방향 제시.
       </blockquote>
-      <a href="https://github.com/Hyunseok-C/algorithm-duality">
+      <p>
+        🗂️ <a href="https://www.notion.so/KOSSDA-201bf34cc2ef80b3a604dbe50938eabc" target="_blank">
+        <b>KOSSDA 프로젝트 노션 바로가기</b>
+          </a><br>
+        <i>KOSSDA 공모전 팀의 아이디어, 분석, 회의, 할 일 관리 등 전 과정을 기록한 Notion Workspace </i>
+      </p>
+      <a href="https://github.com/Hyunseok-C/algorithm-duality" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyunseok-C&repo=algorithm-duality&show_owner=true" alt="algorithm-duality repo card">
       </a>
     </td>
