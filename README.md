@@ -117,7 +117,7 @@ R과 Python을 활용한 데이터 분석 및 시각화 프로젝트를 통해 �
         - 분석 결과를 토대로 <i>미디어 알고리즘의 양면성</i>과 사회적 책임 및 제도적 대응 방향 제시
       </blockquote>
       <p>
-        <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion icon" width="18" height="18"> <a href="https://www.notion.so/KOSSDA-201bf34cc2ef80b3a604dbe50938eabc" target="_blank">  
+        <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion icon" width="18" height="18"> <a href="https://glib-powder-5f6.notion.site/KOSSDA-201bf34cc2ef80b3a604dbe50938eabc" target="_blank">  
         <b>KOSSDA 프로젝트 노션 바로가기</b>
           </a><br>
         <i>KOSSDA 공모전 팀의 아이디어, 분석, 회의, 할 일 관리 등 전 과정을 기록한 Notion Workspace </i>
