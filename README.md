@@ -25,7 +25,7 @@
 
 > 저는 데이터 속 흐름과 변화의 이유를 읽고, 이를 의사결정에 활용할 수 있는 분석 결과로 연결하는 데 관심이 있습니다. <br>
 통계적 사고와 분석 도구 활용 역량을 바탕으로 데이터를 탐색·정제하고, 분석 결과를 이해하기 쉽게 전달하는 경험을 쌓아왔습니다. <br>
-앞으로는 문제를 데이터 관점에서 정의하고, 분석 결과가 실제 개선으로 연결하는 분석·전달력을 갖춘 데이터 분석가로 성장하고자 합니다.
+앞으로는 문제를 데이터 관점에서 정의하고, 서비스 운영 효율과 사용자 경험 개선에 기여하는 데이터 분석가로 성장하고자 합니다.
 
 <img align="right" alt="Data Analysis Illustration" 
      src="https://raw.githubusercontent.com/Hyunseok-C/Hyunseok-C/main/data-analysis-illustration.png" 
@@ -166,8 +166,9 @@
 
 </blockquote>
 
- [📄 **논문정보 바로가기**](https://dtaqdqs.jams.or.kr/po/volisse/sjPubsArtiPopView.kci?soceId=INS000069161&artiId=SJ0000000479&sereId=SER000000001&submCnt=2&indexNo=1)
- [💻 **코드 보기**](https://github.com/Hyunseok-C/NetworkAnomalyDetection)
+[🧾 **국방품질연구논집 논문 정보**](https://dtaqdqs.jams.or.kr/po/volisse/sjPubsArtiPopView.kci?soceId=INS000069161&artiId=SJ0000000479&sereId=SER000000001&submCnt=2&indexNo=1)
+[📄 **KCI 논문 보기**](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003355052)
+[💻 **코드 보기**](https://github.com/Hyunseok-C/NetworkAnomalyDetection)
 
 </a>
 
