@@ -72,6 +72,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
@@ -105,8 +106,8 @@
         <img src="https://img.shields.io/badge/Competition-KOSSDA%20공모전-blue" alt="Competition Badge">
         <img src="https://img.shields.io/badge/Topic-Media%20Algorithm%20Analysis-red" alt="Topic Badge">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
-        <img src="https://img.shields.io/badge/IDE-Jupyter-orange" alt="IDE Badge">
-        <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="IDE Badge">
+        <img src="https://img.shields.io/badge/Jupyter-orange">
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion Badge">
       </p>
       <p><b>주제:</b> 한국 사회의 특징적인 사회현상이나 문제 혹은 변화, 그리고 미래 전망<br>
@@ -150,6 +151,7 @@
 <img src="https://img.shields.io/badge/Topic-Anomaly%20Detection-red">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-orange">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
 </p>
 
@@ -184,13 +186,13 @@
 |:--:|:--|:--:|:--:|:--|
 | **2026-1** | 🚲 **서울시 따릉이 수요에 영향을 미치는 기상 요인의 다변량 구조 분석** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white) | `다변량자료분석및실습` | 따릉이 수요에 영향을 미치는 기상·대기질 요인 분석 <br> MANOVA와 인자분석 기반 잠재구조 도출 및 해석 <br> [💾💻 자료 및  코드 보기](https://github.com/cosmosweet/SeoulBikeDemand-FactorAnalysis) |
 | **2025-2** | 🧱 **선형모형을 활용한 콘크리트 압축강도 분석** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white) | `선형모형및실습2` | 콘크리트 배합 변수와 압축강도 간의 관계 분석 <br> 다중회귀모형 구축 및 변수선택, 모형 진단을 통해 최적 선형모형 도출 <br> [💾💻 자료 및  코드 보기](https://github.com/Hyunseok-C/Concrete_compressive_strength) |
-| **2025-2** | 📉 **고객이탈예측모델비교** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white) | `기계학습개론` | 통신사 고객 이탈 여부를 예측 모델 구축 <br> 9가지 머신러닝 분류 모델 성능 비교하여 최적 모델 선정 <br> [💾💻 자료 및  코드 보기](https://github.com/Hyunseok-C/telecom_churn) |
+| **2025-2** | 📉 **고객이탈예측모델비교** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white) | `기계학습개론` | 통신사 고객 이탈 여부를 예측 모델 구축 <br> 통계, ML 분류 모델 9가지 성능 비교하여 최적 모델 선정 <br> [💾💻 자료 및  코드 보기](https://github.com/Hyunseok-C/telecom_churn) |
 | **2025-2** | ☸️ **OSS - Kubernetes** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <br> ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white) <br> ![Minikube](https://img.shields.io/badge/Minikube-326CE5?style=flat) | `오픈소스SW개발` | Kubernetes 아키텍처와 동작 원리 분석 <br> Minikube 기반 프로토타입 구현 및 핵심 기능(Self-Healing, Auto Scaling, Rolling Update) 시연 <br> [💾 자료 보기](https://drive.google.com/file/d/1NY9jE-bk0yJDd43ThQ4bXolf-pKdFGVv/view?usp=sharing) <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion icon" width="18" height="18"> <a href="https://excellent-spinach-1bb.notion.site/SW-29e75cd68a8c80f8b5b2d39bbdac321f?pvs=143">노션 바로가기</a> |
 | **2025-1** | 🏀 **NBA 선수 연봉 분류 예측** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white) | `데이터마이닝 및 실습` | NBA 선수 연봉 분류(`Low`·`Mid`·`High`) 예측 모델 구축 <br> KNN, Naive Bayes, 결정트리, 랜덤포레스트 성능 비교 <br> [💾💻 자료 및  코드 보기](https://github.com/Hyunseok-C/nba-salary-classification) |
 | **2025-1** | 🧬 **의료분야 도메인 적응 논문 리뷰** | ![Topic](https://img.shields.io/badge/Topic-Domain%20Adaptation-red)<br>![Type](https://img.shields.io/badge/Type-Paper%20Review-lightgrey) | `비정형데이터 분석` | 논문을 기반으로 도메인 적응의 기술 발전 과정을 6단계로 정리 <br> 의료 영상 분야에서의 적용 성능 향상 과정 설명 <br> [💾 자료 보기](https://drive.google.com/file/d/17Crflk97YLf_DVqD-vGMru7oc7-urzUz/view?usp=sharing) |
 | **2025-1** | 🩺 **의료장벽이 건강상태에 미치는 영향 분석** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white) | `헬스케어빅데이터 입문` | BRFSS 2021 설문조사 기반 성향점수매칭(PSM)·로지스틱 회귀로 의료비 장벽이 건강상태에 미치는 영향 분석 <br> [💾💻 자료 및 코드 보기](https://github.com/Hyunseok-C/healthcare-barrier-psm-analysis) |
-| **2024-2** | 🚦 **2023년 서울 음주운전 사고 분석** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat)<br>![Jupyter](https://img.shields.io/badge/Jupyter-orange)<br>![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) | `데이터사이언스` | 서울시 음주운전 단속·사고 데이터를 분석<br> 시간·자치구·연령대별 패턴을 시각화하여 예방 방안 제시 <br> [💾💻 자료 및 코드 보기](https://github.com/Hyunseok-C/drunk-driving-analysis-2023) |
-| **2024-2** | ⚾ **2024 KBO 정규시즌 데이터 시각화** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)<br>![RMarkdown](https://img.shields.io/badge/RMarkdown-.Rmd-blue) | `탐색적 자료분석 및 시각화` | KBO 선수 기록 데이터를 시각화<br> 포스트시즌 진출 여부에 따른 주요 성적 지표(OPS, ERA 등)와 득점 요인 탐색 <br> [💾💻 자료 및 코드 보기](https://github.com/Hyunseok-C/kbo-postseason-eda-2024) |
+| **2024-2** | 🚦 **2023년 서울 음주운전 사고 분석** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat)<br>![Jupyter](https://img.shields.io/badge/Jupyter-orange)<br>![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) | `데이터사이언스` | 서울시 음주운전 단속·사고 데이터 분석<br> 시간·자치구·연령대별 패턴 시각화 및 예방 방안 제시 <br> [💾💻 자료 및 코드 보기](https://github.com/Hyunseok-C/drunk-driving-analysis-2023) |
+| **2024-2** | ⚾ **2024 KBO 정규시즌 데이터 시각화** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)<br>![IDE](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)<br>![RMarkdown](https://img.shields.io/badge/RMarkdown-.Rmd-blue) | `탐색적 자료분석 및 시각화` | KBO 선수 기록 데이터 시각화<br> 포스트시즌 진출 여부별 성적 지표와 득점 요인 탐색 <br> [💾💻 자료 및 코드 보기](https://github.com/Hyunseok-C/kbo-postseason-eda-2024) |
 
 
 ---
